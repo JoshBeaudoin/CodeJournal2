@@ -15,3 +15,13 @@ Today we learned how to make 404 pages like the ones when websites crash over ov
 
 #Feb 1st
 *Today we did a group activity looking at the heros of a website, i as paired with stephen and will which is a great group. we looked at devent art for our assigment, it had alot of cool aspects to the website itself and was very user friendly. we were able to do teh assigment really quick because my group knew what they were doing right off the bat and we zoomed thrpugh it which was cool, we also have a guest stuent in today which seems nice she is here to help anyone with coding troubles 
+
+
+#Feb 2nd
+*Today we learned about how to do simple animations for our webpages, its kinda complicated but once completey figured out it will be alot better for my final webpage design. we had also gone over hero sections which is the part of the page thats under the search bar.
+
+#Feb 3rd
+*Today we did a little bit of java script, it is not as confusing as i thought it was going to be but it will still take alot of time to learn which is okay i still have tons of time. Java script is interesting because it just adds a whole other layer of stuff you can do to your website whhich in the long run will be great.
+
+#Feb 4th
+*Today we did math related things in coding, which i very much did not like im not a big math guy personally but it wasnt hard stuff to do so it was all good and no homework related to math so still chilling. Coding is becoming very intertesing because of everything you can do with it and i still dont even know like 10% of what you can actually do.
